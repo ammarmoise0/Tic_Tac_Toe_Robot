@@ -30,6 +30,11 @@
 - *Inference*
     NA
 
+A special care for Data collection has been given. Considering the number of episodes able to record within the time of the hachackathon, this meaned max 1000 episodes. 
+We tried an approach only based on a LeRobot policy, i.e. without adding any other top layer such as VLA. 
+So, the diversity of cases to be found had to be considered, i.e. ~40 episodes per case, limiting them to a dozen. 
+Thus, we reduced it for a specific determined game.
+
 ### 4. Ease of use
 - *How generalizable is your implementation across tasks or environments?*
 - *Flexibility and adaptability of the solution*
