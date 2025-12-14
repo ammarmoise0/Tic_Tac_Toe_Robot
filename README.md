@@ -6,7 +6,6 @@ The idea is simple: you put tokens on a real board, the robot “sees” the gam
 
 <p align="left">
   <img src="media/tic_tac_0.jpeg" alt="Morpion demo" width="45%"/>
-  <img src="media/Tic_tac_toe_board.png" alt="Morpion board" width="34%"/>
 </p>
 
 ---
