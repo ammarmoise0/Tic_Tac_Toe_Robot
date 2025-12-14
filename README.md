@@ -5,7 +5,7 @@ This repo contains our code and configs to control a SO-101 robotic arm that pla
 The idea is simple: you put tokens on a real board, the robot “sees” the game, chooses a move, and places its own token.
 
 <p align="left">
-  <img src="media/Tic_tac_toe.png" alt="Morpion demo" width="45%"/>
+  <img src="media/tic_tac_0.jpeg" alt="Morpion demo" width="45%"/>
   <img src="media/Tic_tac_toe_board.png" alt="Morpion board" width="34%"/>
 </p>
 
